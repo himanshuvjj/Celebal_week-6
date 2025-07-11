@@ -1,19 +1,19 @@
-## 📊 Model Evaluation and Hyperparameter Tuning
+##  Model Evaluation and Hyperparameter Tuning
 
-### 🔍 Project Overview
+###  Project Overview
 
 This project demonstrates the evaluation and optimization of multiple machine learning models using the Iris dataset. It includes preprocessing, training, metric-based evaluation, and hyperparameter tuning using `GridSearchCV` and `RandomizedSearchCV` from Scikit-learn.
 
 ---
 
-### 📁 Contents
+###  Contents
 
 * `Model Evaluation and Hyperparameter Tuning.ipynb` — Jupyter notebook with the full pipeline.
 * `README.md` — This documentation file.
 
 ---
 
-### 🚀 Objectives
+###  Objectives
 
 * Load and preprocess the dataset
 * Train and evaluate multiple models (Logistic Regression, Random Forest, SVM)
@@ -22,7 +22,7 @@ This project demonstrates the evaluation and optimization of multiple machine le
 
 ---
 
-### 📚 Tools & Libraries
+###  Tools & Libraries
 
 * Python
 * NumPy & Pandas
@@ -31,7 +31,7 @@ This project demonstrates the evaluation and optimization of multiple machine le
 
 ---
 
-### 🔧 Techniques Used
+###  Techniques Used
 
 * **Train-Test Split**
 * **Feature Scaling**
@@ -48,13 +48,13 @@ This project demonstrates the evaluation and optimization of multiple machine le
 
 ---
 
-### 📈 Results Summary
+###  Results Summary
 
 After tuning, the best model was selected based on F1-score performance. The workflow successfully improves classification accuracy through strategic parameter optimization.
 
 ---
 
-### 📌 Key Learnings
+###  Key Learnings
 
 * Importance of evaluating models on multiple metrics
 * How to apply grid and randomized search for parameter tuning
